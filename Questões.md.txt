@@ -4,3 +4,4 @@ Repositório: É um local onde seus arquivos e histórico de alterações são a
 Merge: Combinar alterações de diferentes branches no Git.
 Pull: Obter alterações do repositório remoto.
 Branch:Uma linha de desenvolvimento separada
+Pull request: Uma solicitação para mesclar suas alterações em um projeto
