@@ -6,3 +6,4 @@ Pull: Obter alterações do repositório remoto.
 Branch:Uma linha de desenvolvimento separada
 Pull request: Uma solicitação para mesclar suas alterações em um projeto
 Fork: Fazer uma cópia de um projeto.
+VCS: Software de controle de Versão
