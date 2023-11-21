@@ -3,3 +3,4 @@ Commit: Cada commit registra as alterações que você fez nos arquivos.
 Repositório: É um local onde seus arquivos e histórico de alterações são armazenados.
 Merge: Combinar alterações de diferentes branches no Git.
 Pull: Obter alterações do repositório remoto.
+Branch:Uma linha de desenvolvimento separada
