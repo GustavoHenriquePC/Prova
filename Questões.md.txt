@@ -1,2 +1,3 @@
 Clone: Fazer uma cópia idêntica de um repositório.
 Commit: Cada commit registra as alterações que você fez nos arquivos.
+Repositório: É um local onde seus arquivos e histórico de alterações são armazenados.
